@@ -1,5 +1,8 @@
 # My Journey to Prepare for 1337 Piscine
 
+![My Logo](images/mylogoimg.png)
+
+
 Welcome to my repository! This is my dedicated space to document my journey in preparing for the 1337 Piscine, focusing on mastering the C programming language. The plan is structured day by day, progressing from the basics to advanced concepts, with exercises inspired by the rigorous style of 42 School. Dive in with me as I build my skills step by step!
 
 ---
