@@ -11,8 +11,10 @@ Welcome to my repository! This is my dedicated space to document my journey in p
 
 | Day   | Topics                          | Goals                                                   | Status   |
 |-------|----------------------------------|---------------------------------------------------------|----------|
-| Day 00| Basics                          | Data types, variables, basic I/O, simple math           | ⬜ Done |
-| Day 01| Control Flow                    | Conditionals (`if`, `else`), loops (`for`, `while`)     | ⬜ Done |
+| Day 00| Basics                          | Data types, variables, basic I/O, simple math           | ✅ Done
+ |
+| Day 01| Control Flow                    | Conditionals (`if`, `else`), loops (`for`, `while`)     | ✅ Done
+ |
 | Day 02| Functions & Recursion           | Writing functions, recursion basics                     | ⬜ Not Done |
 | Day 03| Arrays                          | 1D/2D arrays, array manipulation                       | ⬜ Not Done |
 | Day 04| Pointers                        | Pointer arithmetic, relation to arrays                 | ⬜ Not Done |
